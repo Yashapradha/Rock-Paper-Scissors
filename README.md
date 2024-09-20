@@ -1,4 +1,4 @@
-```markdown
+
 # Rock Paper Scissors Game in Java
 
 This is a simple command-line Rock, Paper, Scissors game implemented in Java. The game allows the user to play against the computer, which randomly selects its choice. The rules are the classic:
