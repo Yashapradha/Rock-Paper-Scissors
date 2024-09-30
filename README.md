@@ -32,7 +32,7 @@ This is a simple command-line Rock, Paper, Scissors game implemented in Java. Th
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors-java.git
+   git clone https://github.com/Yashapradha/Rock-Paper-Scissors.git
    ```
 
 2. Navigate to the project directory:
